@@ -5,7 +5,7 @@ Quem não entende de IA já ficou no passado! Com uma introdução sólida não 
 Conheça o Amazon Q, o Bedrock e o Claude 3 e adicione essas habilidades no seu currículo, aplicando o que aprendeu de forma prática para criar soluções com mais rapidez e eficiência.
 
 
-              ![Screenshot_2-removebg-preview](https://github.com/Nayumt99/bootcamp-nexa/assets/68863624/cb2344d2-fb7e-471f-8acc-d26bc773e077)
+   ![Screenshot_2-removebg-preview](https://github.com/Nayumt99/bootcamp-nexa/assets/68863624/cb2344d2-fb7e-471f-8acc-d26bc773e077)
               
 
 ## Atividades
